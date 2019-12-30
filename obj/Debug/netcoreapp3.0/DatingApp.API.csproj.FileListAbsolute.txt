@@ -41,3 +41,11 @@
 /Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/Users/linton/Desktop/dating-app/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
