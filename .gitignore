@@ -4,4 +4,6 @@ obj
 *.db
 .idea
 .vs
-appsettings.jsongit 
+appsettings.json
+/bin
+/obj
